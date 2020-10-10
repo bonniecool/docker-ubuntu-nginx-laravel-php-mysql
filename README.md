@@ -1,1 +1,1 @@
-# docker-ubuntu-nginx-laravel-php-mysql
+#docker with ubuntu, nginx, php, mysql, laravel
